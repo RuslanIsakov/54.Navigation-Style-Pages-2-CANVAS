@@ -39,3 +39,6 @@ html, body {
 .menu_toggle:active i {
   opacity: 0.8;
 }
+.menu_toggle i {
+  color: #f0f0f0;
+}
