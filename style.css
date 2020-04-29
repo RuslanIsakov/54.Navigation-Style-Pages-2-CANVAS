@@ -33,3 +33,6 @@ html, body {
   cursor: pointer;
   width: 100px;
   height: 80px;
+  background-color: #f37272;
+  border-bottom-right-radius: 100%;
+}
