@@ -36,3 +36,6 @@ html, body {
   background-color: #f37272;
   border-bottom-right-radius: 100%;
 }
+.menu_toggle:active i {
+  opacity: 0.8;
+}
