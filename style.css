@@ -31,3 +31,5 @@ html, body {
   left: 0;
   display: block;
   cursor: pointer;
+  width: 100px;
+  height: 80px;
