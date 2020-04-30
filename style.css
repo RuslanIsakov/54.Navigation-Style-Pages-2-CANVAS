@@ -45,3 +45,5 @@ html, body {
 .menu_toggle .menu_open, .menu_toggle .menu_close {
   position: absolute;
   top: 50%;
+ left: 50%;
+  margin-top: -15px;
