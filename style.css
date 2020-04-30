@@ -53,3 +53,7 @@ html, body {
 .menu_toggle .menu_open {
   transform-origin: -100px -100px;
 }
+.menu_toggle .menu_close {
+  transform: rotate(20deg);
+  transform-origin: -100px -160px;
+}
