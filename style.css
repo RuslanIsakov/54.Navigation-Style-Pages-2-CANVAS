@@ -42,3 +42,6 @@ html, body {
 .menu_toggle i {
   color: #f0f0f0;
 }
+.menu_toggle .menu_open, .menu_toggle .menu_close {
+  position: absolute;
+  top: 50%;
