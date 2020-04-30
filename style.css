@@ -57,3 +57,7 @@ html, body {
   transform: rotate(20deg);
   transform-origin: -100px -160px;
 }
+.menu_items {
+  position: fixed;
+  bottom: 0;
+  left: 50px;
