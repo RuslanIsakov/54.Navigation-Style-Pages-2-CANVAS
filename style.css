@@ -77,3 +77,6 @@ transform: translateX(-300px);
 .menu_items li:nth-child(3) {
   margin-left: 80px;
 }
+.menu_items a {
+  display: block;
+  text-decoration: none;
