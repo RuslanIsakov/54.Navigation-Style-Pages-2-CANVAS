@@ -71,3 +71,6 @@ html, body {
 transform: translateX(-300px);
   transition: transform 0.7s 0s cubic-bezier(1, 0.005, 0.24, 1);
 }
+.menu_items li:nth-child(2) {
+  margin-left: 40px;
+}
