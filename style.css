@@ -82,3 +82,6 @@ transform: translateX(-300px);
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 2px;
+  color: #a4a4a4;
+  transition: color 0.2s;
+}
