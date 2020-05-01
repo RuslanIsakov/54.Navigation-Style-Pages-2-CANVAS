@@ -80,3 +80,5 @@ transform: translateX(-300px);
 .menu_items a {
   display: block;
   text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
