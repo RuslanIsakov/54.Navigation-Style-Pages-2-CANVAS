@@ -65,3 +65,6 @@ html, body {
   margin: 0;
   padding: 0;
 }
+.menu_items li {
+  height: 60px;
+  margin-bottom: 30px;
