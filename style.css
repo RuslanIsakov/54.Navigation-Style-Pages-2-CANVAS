@@ -88,3 +88,6 @@ transform: translateX(-300px);
 .menu_items a .icon {
   position: relative;
   display: inline-block;
+  margin-right: 25px;
+  color: #f0f0f0;
+}
