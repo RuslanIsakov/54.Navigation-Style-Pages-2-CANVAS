@@ -91,3 +91,6 @@ transform: translateX(-300px);
   margin-right: 25px;
   color: #f0f0f0;
 }
+.menu_items a .icon:after {
+  position: absolute;
+  top: 50%;
