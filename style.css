@@ -85,3 +85,6 @@ transform: translateX(-300px);
   color: #a4a4a4;
   transition: color 0.2s;
 }
+.menu_items a .icon {
+  position: relative;
+  display: inline-block;
