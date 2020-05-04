@@ -114,3 +114,9 @@ transform: translateX(-300px);
 .menu_items a:active .icon {
   color: #f37272;
 }
+/* Let's open up the menu */
+.shazam {
+  /*.content_inner {
+   height: 100%;
+   }*/
+}
