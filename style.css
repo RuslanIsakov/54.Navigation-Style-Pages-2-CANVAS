@@ -120,3 +120,6 @@ transform: translateX(-300px);
    height: 100%;
    }*/
 }
+.shazam .content {
+  transform: rotate(-30deg);
+}
