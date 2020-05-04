@@ -126,3 +126,6 @@ transform: translateX(-300px);
 .shazam .menu_open {
   transform: rotate(-20deg);
 }
+.shazam .menu_close {
+  transform: rotate(0);
+}
