@@ -105,3 +105,6 @@ transform: translateX(-300px);
   border: 2px solid #f0f0f0;
   transition: border-color 0.2s;
 }
+.menu_items a:hover {
+  color: #f0f0f0;
+}
