@@ -129,3 +129,7 @@ transform: translateX(-300px);
 .shazam .menu_close {
   transform: rotate(0);
 }
+.shazam .menu_items li {
+  transform: translateX(0);
+  transition: transform 0.35s 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
