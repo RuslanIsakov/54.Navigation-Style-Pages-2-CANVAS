@@ -139,3 +139,7 @@ transform: translateX(-300px);
 .shazam .menu_items li:nth-child(3) {
   transition-delay: 0.48s;
 }
+h1 {
+  padding-bottom: 15px;
+  border-bottom: 1px solid #ddd;
+}
